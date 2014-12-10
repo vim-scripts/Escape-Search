@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5066
+
+Start typing a search, e.g.:
+/http://www.vim.org/
+
+Before pressing Enter, press F7 to escape the search.:
+/http:\/\/www\.vim\.org\/
